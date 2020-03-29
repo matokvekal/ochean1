@@ -3,4 +3,6 @@ __pycache__/
 create_tables.py
 venv/
 uwsgi.ini
+run.py
+data.db
 
